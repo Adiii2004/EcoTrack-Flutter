@@ -1,6 +1,6 @@
-# ecotrack
+# EcoTrack-Flutter
 
-A new Flutter project.
+EcoTrack is a Flutter project focused on environmental tracking and awareness.
 
 ## Getting Started
 
